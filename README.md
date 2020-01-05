@@ -1,0 +1,2 @@
+# coin_detection_and_recognition_project
+with OpenCV
