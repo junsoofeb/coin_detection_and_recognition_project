@@ -25,7 +25,7 @@ with OpenCV
 3) roi에서 HOUGH 원 변환 알고리즘을 사용하여 원을 찾음  
 4) roi안에 원이 여러 개인 경우, 반지름이 가장 큰 원을 선택  
 
-## 4. coin_detection.py 동작 사진
+## 4. coin_detection.py 동작 결과
 
 ![스크린샷, 2020-01-07 03-18-07](https://user-images.githubusercontent.com/46870741/71838653-b2ed2800-30fc-11ea-9222-167f3d35d12b.png)
 
